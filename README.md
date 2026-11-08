@@ -42,4 +42,4 @@ iT1phtxj
 #### 2.流媒体解锁报告
 ![image](https://github.com/jdnei/yinghua/blob/main/yinghua/74327509340958309test.jpg?raw=true)</br>
 #### 3.落地入口分析
-![image](https://github.com/jdnei/yinghua/blob/main/yinghua/43908290348509345ana.jpg?raw=true)</br>
+![image](https://github.com/jdnei/yinghua/blob/main/yinghua/9485209384095ana2.jpeg?raw=true)</br>
