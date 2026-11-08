@@ -37,15 +37,9 @@ iT1phtxj
 | 畅享版 Ultra | 500GB / 月 | ¥60.00 | 月付 | 5 台 | 4K（2160P） | Netflix、Disney+、YouTube | ChatGPT、Claude、Gemini | 适合重度使用；支持新疆、福建等地区 |
 | 不限时 Forever | 300GB（总量） | ¥100.00 | 一次性 / 不限时 | 5 台 | 4K（2160P） | Netflix、Disney+、YouTube | ChatGPT、Claude、Gemini | 流量用完为止；支持新疆、福建等地区 |
 ## 📊 性能实测与分析
-#### 1.1电信晚高峰测速表现
-![image](?raw=true)</br>
-#### 1.2联通晚高峰测速表现
-![image](?raw=true)</br>
-#### 1.3移动晚高峰测速表现
-![image](?raw=true)</br>
-#### 2.1AI解锁报告
-![image](?raw=true)</br>
-#### 2.2流媒体解锁报告
-![image](?raw=true)</br>
+#### 1.晚高峰测速表现
+![image](https://github.com/jdnei/yinghua/blob/main/yinghua/894372534759speed.jpg?raw=true)</br>
+#### 2.流媒体解锁报告
+![image](https://github.com/jdnei/yinghua/blob/main/yinghua/74327509340958309test.jpg?raw=true)</br>
 #### 3.落地入口分析
-![image](?raw=true)</br>
+![image](https://github.com/jdnei/yinghua/blob/main/yinghua/43908290348509345ana.jpg?raw=true)</br>
