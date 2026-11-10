@@ -2,8 +2,8 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# SpiderVenomous 毒蜘蛛VPN官方地址(2026年11月9日更新)
-SpiderVenomous 毒蜘蛛VPN官网地址</br>
+# SpiderVenomous 毒蜘蛛机场官方地址(2026年11月9日更新)
+SpiderVenomous 毒蜘蛛机场官网地址</br>
 最新地址01：[yfint.jindy.cc.cd](https://to.iix.im/yh03)</br>
 最新地址02：[yfwork.jindy.cc.cd](https://to.iix.im/yh02)</br>
 官方地址：[yfopen.jindy.cc.cd](https://to.iix.im/yh01)</br>
