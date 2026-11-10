@@ -2,8 +2,8 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# YingHua樱花网络官方地址(2026年11月9日更新)
-YingHua樱花网络官网地址</br>
+# SpiderVenomous 毒蜘蛛VPN官方地址(2026年11月9日更新)
+SpiderVenomous 毒蜘蛛VPN官网地址</br>
 最新地址01：[yfint.jindy.cc.cd](https://to.iix.im/yh03)</br>
 最新地址02：[yfwork.jindy.cc.cd](https://to.iix.im/yh02)</br>
 官方地址：[yfopen.jindy.cc.cd](https://to.iix.im/yh01)</br>
@@ -23,10 +23,10 @@ iT1phtxj
 8899M
 ```
 ## 简介
-### 樱花网络机场简介
-樱花网络是一家2026年上线的网络加速服务商，主打优化直连线路，采用VMess协议，节点覆盖香港、台湾、日本、新加坡、马来西亚及美国等地区。提供月付、季付及不限时流量套餐，支持Netflix、Disney+等流媒体，部分套餐支持ChatGPT等AI工具，适合日常上网与影音娱乐。
+
+SpiderVenomous 毒蜘蛛VPN是一家2026年上线的网络加速服务商，主打优化直连线路，采用VMess协议，节点覆盖香港、台湾、日本、新加坡、马来西亚及美国等地区。提供月付、季付及不限时流量套餐，支持Netflix、Disney+等流媒体，部分套餐支持ChatGPT等AI工具，适合日常上网与影音娱乐。
 ## 优势
-樱花网络主打低价与多运营商优化线路，采用电信CN2 GIA、联通9929、移动CMIN2等网络资源，结合Cloudflare Anycast入口改善连接体验。套餐最低9.9元/月起，支持3至5台设备同时在线，提供不限时流量包及高级AI解锁服务，兼顾轻度使用、多设备上网和备用网络需求。
+SpiderVenomous 毒蜘蛛VPN主打低价与多运营商优化线路，采用电信CN2 GIA、联通9929、移动CMIN2等网络资源，结合Cloudflare Anycast入口改善连接体验。套餐最低9.9元/月起，支持3至5台设备同时在线，提供不限时流量包及高级AI解锁服务，兼顾轻度使用、多设备上网和备用网络需求。
 ## 套餐
 | 套餐 | 流量 | 价格 | 付款周期 | 同时在线设备 | 视频支持 | 流媒体解锁 | AI 解锁 | 特色 / 备注 |
 |---|---|---|---|---|---|---|---|---|
