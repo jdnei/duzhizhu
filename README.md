@@ -14,7 +14,7 @@ SpiderVenomous 毒蜘蛛机场官网地址</br>
 
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 ## 邀请码
-`比邀请码注册，可得试用套餐(此活动官方随时取消)`
+`此邀请码注册，可得试用套餐(此活动官方随时取消)`
 ```bash
 iT1phtxj
 ```
